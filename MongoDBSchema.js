@@ -13,6 +13,7 @@
     	      }
  }
 
+ // insert it this way except there are changies in the mongodb documentation
  db.daisesratings.insert({'name': "Ratings of Daises","Rating": {"daisesNumber": ["LoveDaises Application", "Author Olatunji Odelade"]}})
  
 
